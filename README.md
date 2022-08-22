@@ -23,3 +23,10 @@
 1. Recursion
 1. Dynamic Programming
 1. Big O Time & Space
+1. Object-Oriented Design*
+1. System Design*
+1. Databases*
+
+<br/>
+
+**added by me*
