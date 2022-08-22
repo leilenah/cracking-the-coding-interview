@@ -3,29 +3,29 @@
 <!-- pg. 61 -->
 
 ### Data Structures
-- [x] Linked Lists
-1. Trees, Tries & Graphs
-1. Stacks & Queues
-1. Heaps
-1. Vectors / ArrayLists
-1. Hash Tables
+- [ ] Linked Lists
+- [ ] Trees, Tries & Graphs
+- [ ] Stacks & Queues
+- [ ] Heaps
+- [ ] Vectors / ArrayLists
+- [ ] Hash Tables
 
 ### Algorithms
-1. Breadth-First Search
-1. Depth-First Search
-1. Binary Search
-1. Merge Sort
-1. Quick Sort
+- [ ] Breadth-First Search
+- [ ] Depth-First Search
+- [ ] Binary Search
+- [ ] Merge Sort
+- [ ] Quick Sort
 
 ### Concepts
-1. Bit Manipulation
-1. Memory (Stack vs. Heap)
-1. Recursion
-1. Dynamic Programming
-1. Big O Time & Space
-1. Object-Oriented Design*
-1. System Design*
-1. Databases*
+- [ ] Bit Manipulation
+- [ ] Memory (Stack vs. Heap)
+- [ ] Recursion
+- [ ] Dynamic Programming
+- [ ] Big O Time & Space
+- [ ] Object-Oriented Design*
+- [ ] System Design*
+- [ ] Databases*
 
 <br/>
 
