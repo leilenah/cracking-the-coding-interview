@@ -1,6 +1,6 @@
 <!-- pg. 42 -->
 
-<img src="../reference/big-o-chart.png" />
+<img src="graph.png" />
 
 ### Constant
 O(1)
