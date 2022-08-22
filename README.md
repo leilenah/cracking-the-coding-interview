@@ -3,7 +3,7 @@
 <!-- pg. 61 -->
 
 ### Data Structures
-1. Linked Lists
+- [ ] Linked Lists
 1. Trees, Tries & Graphs
 1. Stacks & Queues
 1. Heaps
