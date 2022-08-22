@@ -111,4 +111,37 @@ def example7():
     """
 
 
-def example8():
+def example8(array = []):
+    """
+    Algorithm:
+        1. take in array of strings
+        2. sort each string
+        3. sort the full array
+
+    let s = the length of the longest string
+    let a = the length of the array
+
+    Runtime: O(a*s(log a + log s))
+    """
+
+    # O(a)
+    for string in array:
+
+        # O(s log s)
+        # sort each string
+
+    # O(a*s log a)
+    # sort the array
+
+
+def example9(node = None):
+    """
+    Runtime: O(n)
+    """
+    # O(1)
+    if (node == None):
+        return 0
+
+    # O(n)
+    return example9(node.left) + node.value + example9(node.right)
+
